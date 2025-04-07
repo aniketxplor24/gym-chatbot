@@ -1,0 +1,22 @@
+id,name,amount,date,plan
+1,John Smith,1500,2025-04-01,Monthly
+2,Amy Johnson,4500,2025-04-02,Quarterly
+4,Nina Patel,1500,2025-04-05,Monthly
+5,Arjun Rao,1500,2025-04-05,Monthly
+6,Kiran Shetty,1500,2025-04-07,Monthly
+7,Leena Thomas,4500,2025-03-15,Quarterly
+8,Ravi Sharma,4500,2025-03-21,Quarterly
+9,Pooja Rani,1500,2025-02-10,Monthly
+10,Aakash Sinha,6000,2025-01-05,Half-Yearly
+11,Anjali Mehta,1500,2025-03-02,Monthly
+12,Sohail Khan,1500,2025-03-20,Monthly
+13,Niharika Joshi,1500,2025-03-30,Monthly
+14,Deepak Roy,4500,2025-02-14,Quarterly
+15,Tanya D’Souza,1500,2025-04-01,Monthly
+16,Rohit Yadav,1500,2025-04-02,Monthly
+17,Meena Kumari,4500,2025-04-03,Quarterly
+18,Gaurav Verma,1500,2025-04-04,Monthly
+19,Sana Sheikh,1500,2025-04-05,Monthly
+20,Kunal Malhotra,1500,2025-04-05,Monthly
+21,Aman Jain,1500,2025-04-03,Monthly
+22,Shilpa Rao,4500,2025-04-04,Quarterly
