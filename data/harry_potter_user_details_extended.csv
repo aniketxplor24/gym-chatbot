@@ -1,0 +1,201 @@
+Name,Address,Phone Number,Payment Status,Active Status,Status,Sex,DOB,Joining Date
+Harry’s Godfather,"101 Grimmauld Place, Dunedin, New Zealand",(020) 118-8115,Unpaid,Inactive,Active,Female,1989-10-26,2022-07-22
+Neville Longbottom,"202 Malfoy Manor, Queenstown, New Zealand",(023) 203-9957,Unpaid,Inactive,Suspended,Female,1972-07-21,2022-07-26
+Draco Malfoy,"707 Granger House, New Plymouth, New Zealand",(029) 407-5106,Unpaid,Active,Cancelled,Male,1967-10-11,2021-10-09
+Lily Potter,"606 Black Mansion, Rotorua, New Zealand",(023) 140-6892,Paid,Inactive,Suspended,Male,1971-05-16,2022-10-16
+Sirius Black,"123 Diagon Alley, Wellington, New Zealand",(028) 127-4342,Unpaid,Active,Cancelled,Female,1979-01-16,2020-06-14
+Albus Dumbledore,"606 Black Mansion, Rotorua, New Zealand",(022) 109-8624,Paid,Inactive,Suspended,Male,1970-07-30,2021-09-28
+Severus Snape,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(026) 952-4278,Unpaid,Active,Suspended,Male,1972-12-25,2020-10-08
+Arthur Weasley,"606 Black Mansion, Rotorua, New Zealand",(028) 947-7907,Paid,Inactive,Active,Female,2005-05-15,2022-05-29
+Bellatrix Lestrange,"303 Potter Lane, Tauranga, New Zealand",(020) 387-7486,Paid,Inactive,Suspended,Female,2000-07-30,2021-12-03
+Albus Dumbledore,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(029) 588-5425,Unpaid,Active,Active,Female,1979-03-03,2023-02-17
+Voldemort,"101 Grimmauld Place, Dunedin, New Zealand",(020) 271-1718,Paid,Active,Suspended,Female,2003-02-25,2023-01-29
+Harry’s Godfather,"606 Black Mansion, Rotorua, New Zealand",(020) 954-6288,Paid,Inactive,Inactive,Female,1963-11-20,2022-06-23
+Albus Dumbledore,"707 Granger House, New Plymouth, New Zealand",(027) 739-1454,Paid,Inactive,Inactive,Male,1972-08-31,2023-02-26
+Bellatrix Lestrange,"101 Grimmauld Place, Dunedin, New Zealand",(029) 364-9823,Paid,Inactive,Suspended,Male,1962-04-07,2021-12-25
+Harry’s Godfather,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(026) 623-1081,Paid,Inactive,Suspended,Male,2000-07-29,2021-04-22
+George Weasley,"303 Potter Lane, Tauranga, New Zealand",(029) 503-8762,Unpaid,Active,Cancelled,Male,1983-08-07,2022-05-31
+Luna Lovegood,"505 Lupin Cottage, Hamilton, New Zealand",(021) 444-9696,Unpaid,Active,Active,Female,1973-09-14,2022-12-17
+George Weasley,"606 Black Mansion, Rotorua, New Zealand",(022) 633-2001,Paid,Active,Inactive,Female,1988-10-25,2021-03-21
+Albus Dumbledore,"505 Lupin Cottage, Hamilton, New Zealand",(023) 474-1948,Unpaid,Inactive,Suspended,Male,1962-01-04,2023-11-13
+Albus Dumbledore,"707 Granger House, New Plymouth, New Zealand",(027) 343-1068,Unpaid,Inactive,Inactive,Female,1968-12-09,2022-02-18
+Hermione Granger,"505 Lupin Cottage, Hamilton, New Zealand",(025) 838-7652,Unpaid,Inactive,Inactive,Male,1988-01-03,2021-08-15
+Harry Potter,"789 Hogwarts Road, Christchurch, New Zealand",(027) 890-3818,Paid,Inactive,Inactive,Female,1975-09-29,2020-03-20
+Severus Snape,"505 Lupin Cottage, Hamilton, New Zealand",(024) 675-2483,Unpaid,Inactive,Suspended,Male,2004-12-23,2022-06-05
+Harry Potter,"505 Lupin Cottage, Hamilton, New Zealand",(020) 926-6066,Unpaid,Inactive,Suspended,Male,1988-07-24,2022-08-26
+Hermione Granger,"505 Lupin Cottage, Hamilton, New Zealand",(021) 564-7406,Unpaid,Inactive,Cancelled,Female,2000-07-12,2020-07-02
+Bellatrix Lestrange,"789 Hogwarts Road, Christchurch, New Zealand",(029) 567-5533,Unpaid,Active,Cancelled,Male,1976-02-20,2023-12-24
+Fred Weasley,"202 Malfoy Manor, Queenstown, New Zealand",(027) 245-4125,Unpaid,Inactive,Active,Female,1993-05-16,2022-10-24
+Hermione Granger,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(026) 652-9658,Paid,Inactive,Inactive,Male,1967-10-21,2021-01-02
+Cho Chang,"505 Lupin Cottage, Hamilton, New Zealand",(024) 276-6921,Paid,Inactive,Active,Female,1985-05-27,2020-11-27
+Hermione Granger,"456 Hogsmeade Street, Auckland, New Zealand",(027) 369-6684,Unpaid,Active,Inactive,Female,1970-09-25,2022-10-09
+Harry Potter,"789 Hogwarts Road, Christchurch, New Zealand",(027) 966-3620,Paid,Active,Inactive,Female,1977-07-21,2023-03-09
+George Weasley,"202 Malfoy Manor, Queenstown, New Zealand",(024) 965-8595,Paid,Inactive,Active,Male,1995-01-17,2022-10-24
+Hermione Granger,"303 Potter Lane, Tauranga, New Zealand",(026) 171-4820,Unpaid,Active,Active,Male,1977-11-26,2021-08-17
+Luna Lovegood,"707 Granger House, New Plymouth, New Zealand",(028) 873-6625,Paid,Active,Inactive,Female,1990-06-22,2021-04-04
+Harry’s Godfather,"303 Potter Lane, Tauranga, New Zealand",(027) 252-5894,Unpaid,Inactive,Inactive,Female,1987-02-01,2023-11-23
+James Potter,"303 Potter Lane, Tauranga, New Zealand",(027) 899-2154,Paid,Inactive,Active,Female,1971-11-07,2020-07-03
+Bellatrix Lestrange,"123 Diagon Alley, Wellington, New Zealand",(021) 561-4107,Paid,Inactive,Active,Female,1985-10-11,2023-12-29
+Sirius Black,"123 Diagon Alley, Wellington, New Zealand",(022) 859-5428,Unpaid,Active,Cancelled,Male,2005-01-21,2023-12-23
+Severus Snape,"123 Diagon Alley, Wellington, New Zealand",(022) 895-1084,Unpaid,Active,Cancelled,Female,1998-07-23,2021-02-11
+Molly Weasley,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(020) 573-2562,Paid,Inactive,Suspended,Male,1985-10-24,2023-01-26
+Cedric Diggory,"606 Black Mansion, Rotorua, New Zealand",(028) 425-6336,Paid,Inactive,Active,Male,1969-06-17,2020-03-12
+Bellatrix Lestrange,"789 Hogwarts Road, Christchurch, New Zealand",(025) 520-3249,Paid,Active,Cancelled,Male,1968-02-03,2020-08-08
+Harry Potter,"456 Hogsmeade Street, Auckland, New Zealand",(025) 901-4980,Unpaid,Active,Cancelled,Male,1988-01-12,2023-09-14
+Hermione Granger,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(026) 900-9285,Unpaid,Active,Cancelled,Male,1996-06-16,2022-01-14
+Harry’s Godfather,"123 Diagon Alley, Wellington, New Zealand",(022) 632-2451,Paid,Active,Suspended,Male,1998-11-16,2022-08-18
+Ginny Weasley,"101 Grimmauld Place, Dunedin, New Zealand",(028) 482-7255,Unpaid,Inactive,Cancelled,Female,1994-01-27,2021-02-02
+Voldemort,"456 Hogsmeade Street, Auckland, New Zealand",(021) 461-4706,Paid,Active,Suspended,Male,2000-03-03,2021-11-25
+Minerva McGonagall,"303 Potter Lane, Tauranga, New Zealand",(023) 885-3208,Paid,Active,Active,Female,1962-07-20,2021-01-09
+Lily Potter,"303 Potter Lane, Tauranga, New Zealand",(021) 123-7984,Paid,Active,Suspended,Male,1976-03-09,2023-01-23
+Ginny Weasley,"606 Black Mansion, Rotorua, New Zealand",(027) 992-4732,Unpaid,Inactive,Suspended,Male,1986-07-31,2021-11-28
+Neville Longbottom,"606 Black Mansion, Rotorua, New Zealand",(025) 681-7900,Unpaid,Inactive,Inactive,Female,1963-07-03,2021-03-20
+Hermione Granger,"202 Malfoy Manor, Queenstown, New Zealand",(024) 803-8853,Unpaid,Active,Suspended,Female,1980-03-10,2023-09-06
+Lily Potter,"707 Granger House, New Plymouth, New Zealand",(028) 646-8502,Unpaid,Active,Inactive,Female,1960-09-21,2023-05-25
+Luna Lovegood,"505 Lupin Cottage, Hamilton, New Zealand",(025) 555-8842,Paid,Active,Inactive,Male,1968-05-01,2021-01-21
+Cedric Diggory,"456 Hogsmeade Street, Auckland, New Zealand",(025) 823-1524,Unpaid,Inactive,Active,Female,2005-08-16,2021-05-27
+Bellatrix Lestrange,"101 Grimmauld Place, Dunedin, New Zealand",(025) 892-7867,Paid,Active,Inactive,Male,1990-12-05,2020-12-25
+Cho Chang,"303 Potter Lane, Tauranga, New Zealand",(025) 599-1961,Paid,Inactive,Inactive,Male,1971-03-04,2021-07-15
+Neville Longbottom,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(024) 491-8282,Paid,Inactive,Cancelled,Female,1960-07-21,2023-09-28
+Draco Malfoy,"101 Grimmauld Place, Dunedin, New Zealand",(024) 307-4542,Paid,Inactive,Active,Female,1963-10-02,2022-05-04
+Cho Chang,"707 Granger House, New Plymouth, New Zealand",(023) 615-6307,Paid,Inactive,Active,Male,2002-09-22,2022-12-05
+Arthur Weasley,"101 Grimmauld Place, Dunedin, New Zealand",(021) 219-1847,Paid,Inactive,Cancelled,Female,2005-11-02,2022-10-11
+James Potter,"101 Grimmauld Place, Dunedin, New Zealand",(022) 816-4751,Unpaid,Active,Inactive,Male,2001-06-20,2023-11-11
+Cedric Diggory,"123 Diagon Alley, Wellington, New Zealand",(028) 195-3808,Unpaid,Inactive,Suspended,Female,1961-02-28,2021-02-01
+Arthur Weasley,"101 Grimmauld Place, Dunedin, New Zealand",(028) 537-4190,Paid,Active,Active,Female,1991-02-11,2022-02-04
+Bellatrix Lestrange,"606 Black Mansion, Rotorua, New Zealand",(028) 720-1602,Paid,Active,Inactive,Male,1984-06-21,2020-04-17
+Remus Lupin,"505 Lupin Cottage, Hamilton, New Zealand",(029) 770-9228,Unpaid,Active,Active,Female,1996-05-29,2020-12-02
+Sirius Black,"789 Hogwarts Road, Christchurch, New Zealand",(025) 852-7612,Unpaid,Active,Cancelled,Male,1991-05-13,2021-03-03
+Draco Malfoy,"101 Grimmauld Place, Dunedin, New Zealand",(020) 108-1370,Paid,Active,Inactive,Female,1976-08-10,2023-06-28
+Molly Weasley,"101 Grimmauld Place, Dunedin, New Zealand",(022) 396-8363,Unpaid,Inactive,Suspended,Female,1998-01-02,2023-04-13
+Remus Lupin,"505 Lupin Cottage, Hamilton, New Zealand",(021) 515-7128,Unpaid,Active,Cancelled,Female,1991-03-21,2023-11-02
+Luna Lovegood,"707 Granger House, New Plymouth, New Zealand",(020) 697-1732,Paid,Inactive,Suspended,Female,1984-01-30,2021-10-15
+Cedric Diggory,"505 Lupin Cottage, Hamilton, New Zealand",(026) 844-6640,Unpaid,Active,Cancelled,Male,1990-05-15,2020-08-06
+Harry’s Godfather,"606 Black Mansion, Rotorua, New Zealand",(029) 886-7948,Paid,Inactive,Cancelled,Female,1971-05-14,2023-05-11
+Harry’s Godfather,"303 Potter Lane, Tauranga, New Zealand",(024) 850-6687,Paid,Active,Suspended,Female,1986-02-25,2023-12-09
+Neville Longbottom,"606 Black Mansion, Rotorua, New Zealand",(029) 160-8206,Unpaid,Inactive,Suspended,Female,1996-08-09,2020-04-10
+Ron Weasley,"123 Diagon Alley, Wellington, New Zealand",(026) 576-7795,Unpaid,Inactive,Cancelled,Female,1964-04-09,2023-07-22
+Voldemort,"789 Hogwarts Road, Christchurch, New Zealand",(029) 932-6676,Unpaid,Active,Active,Female,1997-05-02,2023-06-30
+Fred Weasley,"303 Potter Lane, Tauranga, New Zealand",(024) 112-5359,Unpaid,Active,Inactive,Male,1983-08-12,2023-05-12
+Arthur Weasley,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(021) 779-7817,Paid,Inactive,Active,Female,1984-09-30,2023-06-20
+Ron Weasley,"789 Hogwarts Road, Christchurch, New Zealand",(029) 305-5520,Paid,Active,Suspended,Female,1963-03-29,2021-04-18
+Arthur Weasley,"707 Granger House, New Plymouth, New Zealand",(026) 265-9295,Unpaid,Active,Cancelled,Female,1964-01-11,2020-06-16
+Minerva McGonagall,"101 Grimmauld Place, Dunedin, New Zealand",(028) 423-5931,Unpaid,Active,Active,Male,1969-02-18,2022-04-20
+Ron Weasley,"789 Hogwarts Road, Christchurch, New Zealand",(025) 429-1973,Unpaid,Inactive,Active,Male,1992-10-19,2023-06-05
+Ginny Weasley,"789 Hogwarts Road, Christchurch, New Zealand",(026) 292-7229,Unpaid,Inactive,Suspended,Female,1982-02-26,2020-07-15
+Cedric Diggory,"505 Lupin Cottage, Hamilton, New Zealand",(027) 262-3152,Paid,Inactive,Suspended,Female,1979-08-20,2022-12-28
+Albus Dumbledore,"123 Diagon Alley, Wellington, New Zealand",(025) 660-6278,Paid,Active,Inactive,Male,1998-11-23,2021-03-12
+Fred Weasley,"123 Diagon Alley, Wellington, New Zealand",(027) 155-4726,Unpaid,Inactive,Inactive,Female,1983-10-02,2023-04-11
+Voldemort,"505 Lupin Cottage, Hamilton, New Zealand",(026) 983-4096,Unpaid,Inactive,Inactive,Female,1981-10-15,2022-12-13
+Molly Weasley,"707 Granger House, New Plymouth, New Zealand",(021) 617-6256,Paid,Active,Inactive,Male,2004-05-09,2020-07-16
+Voldemort,"606 Black Mansion, Rotorua, New Zealand",(028) 799-2561,Unpaid,Inactive,Suspended,Female,1987-03-28,2023-07-22
+Ron Weasley,"123 Diagon Alley, Wellington, New Zealand",(025) 408-6178,Paid,Active,Cancelled,Male,2002-08-31,2021-07-18
+Sirius Black,"606 Black Mansion, Rotorua, New Zealand",(022) 948-2634,Paid,Active,Suspended,Female,1970-02-13,2023-12-28
+Voldemort,"505 Lupin Cottage, Hamilton, New Zealand",(029) 953-1256,Unpaid,Active,Active,Female,1977-06-27,2021-03-13
+Harry’s Godfather,"303 Potter Lane, Tauranga, New Zealand",(027) 731-4070,Paid,Active,Cancelled,Male,2003-08-15,2023-08-13
+Harry’s Godfather,"202 Malfoy Manor, Queenstown, New Zealand",(026) 674-5451,Paid,Active,Inactive,Male,2003-02-06,2020-01-17
+Remus Lupin,"202 Malfoy Manor, Queenstown, New Zealand",(029) 771-1560,Unpaid,Inactive,Inactive,Female,1989-06-14,2022-05-24
+Minerva McGonagall,"456 Hogsmeade Street, Auckland, New Zealand",(022) 534-4095,Paid,Inactive,Cancelled,Male,1963-06-06,2022-02-21
+Luna Lovegood,"505 Lupin Cottage, Hamilton, New Zealand",(022) 473-7408,Paid,Active,Suspended,Female,1971-10-24,2020-01-26
+Ginny Weasley,"606 Black Mansion, Rotorua, New Zealand",(029) 512-7481,Paid,Active,Suspended,Male,1985-01-06,2022-10-30
+Luna Lovegood,"606 Black Mansion, Rotorua, New Zealand",(028) 526-4928,Unpaid,Active,Active,Female,2002-06-27,2022-08-21
+Molly Weasley,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(027) 723-2908,Paid,Active,Inactive,Female,1986-12-11,2023-11-03
+Lily Potter,"606 Black Mansion, Rotorua, New Zealand",(025) 383-3833,Paid,Active,Cancelled,Female,1971-09-25,2021-06-10
+Bellatrix Lestrange,"303 Potter Lane, Tauranga, New Zealand",(025) 582-7322,Paid,Active,Cancelled,Male,2000-10-28,2020-11-05
+Cho Chang,"505 Lupin Cottage, Hamilton, New Zealand",(028) 803-4342,Paid,Inactive,Cancelled,Male,1979-10-03,2021-09-07
+Neville Longbottom,"101 Grimmauld Place, Dunedin, New Zealand",(021) 318-6695,Unpaid,Active,Suspended,Female,1981-02-08,2021-01-23
+Harry Potter,"789 Hogwarts Road, Christchurch, New Zealand",(026) 581-3313,Unpaid,Active,Cancelled,Female,1992-02-02,2021-12-11
+Luna Lovegood,"456 Hogsmeade Street, Auckland, New Zealand",(027) 986-9206,Unpaid,Inactive,Cancelled,Male,1973-10-07,2021-07-13
+Remus Lupin,"789 Hogwarts Road, Christchurch, New Zealand",(021) 950-3093,Paid,Inactive,Inactive,Female,1968-09-28,2021-10-19
+Sirius Black,"101 Grimmauld Place, Dunedin, New Zealand",(021) 898-1535,Paid,Active,Suspended,Male,1983-11-14,2020-05-16
+Cedric Diggory,"606 Black Mansion, Rotorua, New Zealand",(023) 583-5542,Paid,Inactive,Inactive,Female,1999-04-19,2021-02-18
+Harry’s Godfather,"505 Lupin Cottage, Hamilton, New Zealand",(028) 237-3272,Unpaid,Active,Inactive,Female,1975-03-03,2021-07-20
+Luna Lovegood,"123 Diagon Alley, Wellington, New Zealand",(027) 410-8128,Unpaid,Active,Inactive,Male,1977-06-08,2021-01-09
+Harry’s Godfather,"123 Diagon Alley, Wellington, New Zealand",(020) 404-5388,Paid,Inactive,Suspended,Female,1960-07-13,2021-08-07
+Sirius Black,"707 Granger House, New Plymouth, New Zealand",(024) 781-4108,Unpaid,Active,Active,Male,1984-06-29,2020-10-06
+Harry’s Godfather,"606 Black Mansion, Rotorua, New Zealand",(020) 487-8015,Unpaid,Inactive,Cancelled,Male,1985-12-02,2022-04-22
+Remus Lupin,"789 Hogwarts Road, Christchurch, New Zealand",(026) 362-4292,Paid,Active,Cancelled,Female,2000-08-09,2023-04-29
+Fred Weasley,"202 Malfoy Manor, Queenstown, New Zealand",(029) 510-1764,Unpaid,Active,Active,Female,2003-02-02,2021-08-05
+Fred Weasley,"505 Lupin Cottage, Hamilton, New Zealand",(028) 635-2004,Paid,Active,Inactive,Male,1964-05-21,2022-05-17
+James Potter,"101 Grimmauld Place, Dunedin, New Zealand",(021) 200-7404,Unpaid,Inactive,Cancelled,Female,1978-02-25,2021-08-15
+Hermione Granger,"789 Hogwarts Road, Christchurch, New Zealand",(023) 294-7026,Paid,Inactive,Inactive,Male,1990-03-02,2021-11-12
+Voldemort,"606 Black Mansion, Rotorua, New Zealand",(020) 681-3258,Paid,Active,Cancelled,Male,2001-04-25,2022-01-14
+Harry Potter,"789 Hogwarts Road, Christchurch, New Zealand",(021) 492-7392,Paid,Inactive,Active,Male,1983-02-14,2020-05-24
+Draco Malfoy,"789 Hogwarts Road, Christchurch, New Zealand",(026) 328-2674,Unpaid,Active,Cancelled,Male,1969-03-19,2022-07-18
+Albus Dumbledore,"789 Hogwarts Road, Christchurch, New Zealand",(021) 193-6725,Paid,Active,Inactive,Female,1975-06-09,2023-06-08
+Arthur Weasley,"505 Lupin Cottage, Hamilton, New Zealand",(020) 715-8950,Paid,Inactive,Active,Female,2000-09-18,2022-08-17
+George Weasley,"303 Potter Lane, Tauranga, New Zealand",(026) 618-1525,Paid,Active,Inactive,Female,1963-04-08,2020-11-14
+George Weasley,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(028) 931-9770,Unpaid,Inactive,Inactive,Female,1981-07-06,2022-12-26
+Luna Lovegood,"123 Diagon Alley, Wellington, New Zealand",(025) 794-3560,Unpaid,Inactive,Cancelled,Female,1972-07-05,2020-05-31
+Arthur Weasley,"606 Black Mansion, Rotorua, New Zealand",(025) 488-7180,Paid,Active,Suspended,Female,1993-04-25,2021-09-28
+Luna Lovegood,"303 Potter Lane, Tauranga, New Zealand",(023) 116-4942,Paid,Active,Active,Female,1978-02-26,2022-01-16
+Bellatrix Lestrange,"707 Granger House, New Plymouth, New Zealand",(020) 823-5066,Unpaid,Active,Suspended,Female,1974-03-24,2021-12-13
+Hermione Granger,"123 Diagon Alley, Wellington, New Zealand",(025) 667-6856,Unpaid,Active,Inactive,Female,1970-05-06,2021-07-28
+Cedric Diggory,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(027) 936-2763,Paid,Inactive,Inactive,Female,1987-07-08,2021-01-15
+Neville Longbottom,"101 Grimmauld Place, Dunedin, New Zealand",(021) 958-8471,Paid,Active,Suspended,Female,1969-11-13,2022-08-04
+Lily Potter,"505 Lupin Cottage, Hamilton, New Zealand",(024) 306-6256,Paid,Inactive,Inactive,Male,1966-04-16,2022-08-02
+Ron Weasley,"789 Hogwarts Road, Christchurch, New Zealand",(027) 676-5764,Paid,Inactive,Cancelled,Female,1981-03-12,2023-12-28
+Hermione Granger,"707 Granger House, New Plymouth, New Zealand",(025) 200-1448,Paid,Inactive,Inactive,Male,1985-02-01,2022-06-10
+Harry’s Godfather,"707 Granger House, New Plymouth, New Zealand",(027) 871-1481,Unpaid,Inactive,Inactive,Male,1988-04-01,2021-05-19
+Fred Weasley,"123 Diagon Alley, Wellington, New Zealand",(024) 682-9519,Paid,Inactive,Inactive,Male,1980-06-14,2023-11-21
+Luna Lovegood,"123 Diagon Alley, Wellington, New Zealand",(027) 385-2166,Unpaid,Inactive,Cancelled,Female,1969-11-03,2021-12-08
+Molly Weasley,"707 Granger House, New Plymouth, New Zealand",(023) 614-5435,Unpaid,Active,Cancelled,Male,1966-06-19,2020-11-16
+Ron Weasley,"505 Lupin Cottage, Hamilton, New Zealand",(029) 880-2548,Paid,Inactive,Cancelled,Male,1996-05-17,2023-11-25
+Luna Lovegood,"303 Potter Lane, Tauranga, New Zealand",(021) 997-7994,Unpaid,Inactive,Inactive,Male,1996-06-26,2023-08-25
+Lily Potter,"202 Malfoy Manor, Queenstown, New Zealand",(028) 636-9872,Paid,Active,Suspended,Male,1981-11-07,2021-03-03
+James Potter,"101 Grimmauld Place, Dunedin, New Zealand",(029) 833-2405,Unpaid,Active,Inactive,Female,1966-09-16,2021-09-22
+Bellatrix Lestrange,"202 Malfoy Manor, Queenstown, New Zealand",(025) 260-9637,Unpaid,Active,Inactive,Female,1999-09-07,2022-08-12
+Luna Lovegood,"202 Malfoy Manor, Queenstown, New Zealand",(027) 453-3840,Unpaid,Inactive,Active,Male,1998-04-10,2023-08-25
+Ron Weasley,"606 Black Mansion, Rotorua, New Zealand",(028) 475-3658,Paid,Inactive,Suspended,Female,1981-05-31,2023-06-30
+Cho Chang,"123 Diagon Alley, Wellington, New Zealand",(029) 380-3286,Unpaid,Active,Suspended,Male,1991-08-23,2023-04-23
+Neville Longbottom,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(024) 126-1487,Unpaid,Active,Cancelled,Male,1989-05-01,2020-01-22
+Minerva McGonagall,"789 Hogwarts Road, Christchurch, New Zealand",(024) 100-2464,Unpaid,Active,Active,Female,1971-03-23,2022-10-20
+Cho Chang,"202 Malfoy Manor, Queenstown, New Zealand",(025) 687-2256,Paid,Active,Suspended,Male,1983-09-14,2023-03-10
+Ron Weasley,"202 Malfoy Manor, Queenstown, New Zealand",(024) 518-4160,Paid,Inactive,Inactive,Female,1998-10-31,2021-01-23
+Draco Malfoy,"606 Black Mansion, Rotorua, New Zealand",(021) 570-9961,Paid,Active,Inactive,Male,1980-07-20,2021-01-05
+Arthur Weasley,"606 Black Mansion, Rotorua, New Zealand",(027) 284-1723,Unpaid,Active,Suspended,Male,1960-06-08,2023-08-29
+James Potter,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(029) 540-1921,Paid,Inactive,Active,Female,1960-01-20,2020-12-11
+George Weasley,"303 Potter Lane, Tauranga, New Zealand",(025) 604-3801,Paid,Active,Suspended,Female,1979-03-12,2022-01-26
+Luna Lovegood,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(026) 922-3292,Paid,Active,Cancelled,Male,1995-03-24,2021-05-15
+Hermione Granger,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(025) 984-5765,Paid,Active,Active,Female,1999-08-20,2021-11-20
+Hermione Granger,"123 Diagon Alley, Wellington, New Zealand",(022) 610-6146,Unpaid,Inactive,Suspended,Male,1964-01-30,2023-02-13
+Harry’s Godfather,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(020) 450-7355,Paid,Active,Cancelled,Male,1988-04-20,2022-07-19
+Lily Potter,"303 Potter Lane, Tauranga, New Zealand",(020) 191-7497,Unpaid,Active,Inactive,Male,1964-08-08,2023-12-11
+Ron Weasley,"789 Hogwarts Road, Christchurch, New Zealand",(020) 777-5257,Unpaid,Inactive,Inactive,Female,1976-11-29,2020-07-25
+Minerva McGonagall,"707 Granger House, New Plymouth, New Zealand",(026) 805-2318,Unpaid,Active,Active,Male,1984-11-16,2022-02-19
+Lily Potter,"505 Lupin Cottage, Hamilton, New Zealand",(026) 872-5760,Unpaid,Active,Active,Female,1978-09-16,2020-10-11
+Minerva McGonagall,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(021) 358-4083,Paid,Inactive,Inactive,Male,1985-07-19,2021-09-29
+Cedric Diggory,"789 Hogwarts Road, Christchurch, New Zealand",(023) 679-6184,Unpaid,Inactive,Active,Male,2003-08-17,2021-11-23
+Luna Lovegood,"789 Hogwarts Road, Christchurch, New Zealand",(027) 232-6131,Paid,Inactive,Inactive,Female,1967-01-14,2022-10-02
+Remus Lupin,"505 Lupin Cottage, Hamilton, New Zealand",(020) 933-3060,Unpaid,Inactive,Suspended,Male,1964-03-20,2020-10-29
+Sirius Black,"123 Diagon Alley, Wellington, New Zealand",(021) 213-1942,Paid,Active,Cancelled,Female,1974-02-16,2023-11-23
+Lily Potter,"505 Lupin Cottage, Hamilton, New Zealand",(027) 264-1804,Unpaid,Active,Cancelled,Male,2003-05-27,2023-12-04
+George Weasley,"707 Granger House, New Plymouth, New Zealand",(029) 683-2363,Paid,Active,Active,Male,1960-07-21,2022-07-21
+Lily Potter,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(024) 499-2518,Unpaid,Active,Cancelled,Male,1991-06-09,2022-10-29
+Sirius Black,"123 Diagon Alley, Wellington, New Zealand",(024) 915-7913,Paid,Active,Inactive,Female,1979-11-15,2023-06-24
+Sirius Black,"505 Lupin Cottage, Hamilton, New Zealand",(023) 689-2586,Unpaid,Active,Inactive,Male,1968-08-08,2020-12-10
+Cho Chang,"202 Malfoy Manor, Queenstown, New Zealand",(025) 596-5426,Unpaid,Active,Inactive,Male,1995-03-15,2020-07-19
+Arthur Weasley,"101 Grimmauld Place, Dunedin, New Zealand",(024) 990-6176,Unpaid,Inactive,Cancelled,Female,2001-05-02,2021-10-04
+Minerva McGonagall,"101 Grimmauld Place, Dunedin, New Zealand",(020) 827-6977,Unpaid,Inactive,Cancelled,Male,1965-04-09,2021-09-03
+Lily Potter,"505 Lupin Cottage, Hamilton, New Zealand",(025) 516-5274,Unpaid,Inactive,Cancelled,Female,1970-10-28,2021-06-21
+Bellatrix Lestrange,"505 Lupin Cottage, Hamilton, New Zealand",(026) 327-8402,Unpaid,Active,Inactive,Male,1994-02-08,2021-01-31
+Bellatrix Lestrange,"606 Black Mansion, Rotorua, New Zealand",(023) 462-3580,Unpaid,Active,Suspended,Female,1973-03-29,2023-11-11
+Lily Potter,"101 Grimmauld Place, Dunedin, New Zealand",(023) 903-5565,Paid,Inactive,Suspended,Female,1961-09-04,2020-04-27
+Minerva McGonagall,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(023) 456-3136,Unpaid,Inactive,Cancelled,Female,1960-06-28,2022-06-21
+James Potter,"303 Potter Lane, Tauranga, New Zealand",(022) 152-9833,Paid,Inactive,Suspended,Male,1989-02-02,2022-04-19
+Cedric Diggory,"101 Grimmauld Place, Dunedin, New Zealand",(025) 206-5441,Paid,Inactive,Inactive,Female,1996-04-23,2021-01-10
+Neville Longbottom,"101 Grimmauld Place, Dunedin, New Zealand",(020) 889-5462,Unpaid,Active,Active,Male,1985-09-14,2020-12-04
+Cedric Diggory,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(023) 889-2219,Unpaid,Inactive,Cancelled,Female,2004-10-04,2021-02-06
+Harry’s Godfather,"505 Lupin Cottage, Hamilton, New Zealand",(029) 996-1930,Paid,Inactive,Active,Female,1992-07-15,2020-07-15
+Luna Lovegood,"505 Lupin Cottage, Hamilton, New Zealand",(027) 513-8036,Paid,Inactive,Cancelled,Female,1999-08-18,2021-05-11
+George Weasley,"303 Potter Lane, Tauranga, New Zealand",(024) 961-2746,Paid,Inactive,Cancelled,Female,1991-01-19,2023-01-12
+Molly Weasley,"101 Grimmauld Place, Dunedin, New Zealand",(029) 946-1679,Unpaid,Active,Active,Male,1968-02-01,2023-10-29
+Arthur Weasley,"456 Hogsmeade Street, Auckland, New Zealand",(024) 856-6026,Unpaid,Active,Inactive,Male,2005-01-02,2020-11-04
+Ron Weasley,"303 Potter Lane, Tauranga, New Zealand",(022) 929-3532,Unpaid,Inactive,Inactive,Female,1998-04-27,2022-12-02
+Ginny Weasley,"123 Diagon Alley, Wellington, New Zealand",(028) 716-8143,Unpaid,Inactive,Active,Female,1988-09-05,2023-11-27
+Severus Snape,"123 Diagon Alley, Wellington, New Zealand",(024) 556-5241,Unpaid,Active,Inactive,Female,1991-01-30,2022-04-04
+Remus Lupin,"456 Hogsmeade Street, Auckland, New Zealand",(020) 647-8398,Unpaid,Active,Suspended,Female,1972-06-27,2020-03-25
+Sirius Black,"303 Potter Lane, Tauranga, New Zealand",(022) 153-2172,Unpaid,Active,Active,Male,2004-09-19,2022-10-19
+George Weasley,"404 Weasley Wizard Wheezes, Wellington, New Zealand",(024) 406-5145,Paid,Active,Inactive,Male,1992-02-08,2023-12-17
+Ron Weasley,"505 Lupin Cottage, Hamilton, New Zealand",(028) 593-6587,Unpaid,Active,Inactive,Female,2005-08-06,2021-12-23
+Neville Longbottom,"606 Black Mansion, Rotorua, New Zealand",(020) 136-8957,Unpaid,Active,Inactive,Female,1994-02-01,2022-12-31

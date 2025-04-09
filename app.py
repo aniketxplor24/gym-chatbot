@@ -2,8 +2,16 @@ import streamlit as st
 from agent.query_handler import query_gym_data
 
 # App configuration
-st.set_page_config(page_title="Gym AI Assistant 💪", layout="centered")
-st.title("🏋️‍♂️ Gym Manager Assistant")
+st.set_page_config(page_title="Gym Assistant", page_icon="🤖", layout="centered")
+
+col1, col2 = st.columns([1, 6])
+
+with col1:
+    st.image("data/AI bot.gif", width=60)  # Adjust path and size as needed
+
+with col2:
+    st.markdown("<h1 style='margin-top: 15px;'>Gym Manager Assistant</h1>", unsafe_allow_html=True)
+
 st.markdown("Ask anything about your gym members, payments, or cancellations!")
 
 # Initialize chat history
