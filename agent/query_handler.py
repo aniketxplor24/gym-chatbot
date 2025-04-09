@@ -31,6 +31,15 @@ def query_gym_data(user_question: str) -> str:
             names = ", ".join(filtered["name"]) if not filtered.empty else "None"
             return f"{len(filtered)} member(s) joined this month: {names}"
 
+        case "joined_last_month":
+            target = today - pd.DateOffset(months=1)
+            filtered = members_df[
+                (members_df["join_date"].dt.month == target.month) & 
+                (members_df["join_date"].dt.year == target.year)
+            ]
+            print(f"Filtered data: {filtered}")  # Log the filtered records
+            return f"{len(filtered)} member(s) joined last month : {names} "    
+
         case "cancelled_last_month":
             target = today - pd.DateOffset(months=1)
             filtered = cancellations_df[
